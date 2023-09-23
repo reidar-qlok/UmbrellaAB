@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbrellaAB", "UmbrellaAB\UmbrellaAB.csproj", "{E7898E9B-85C7-48B3-8524-06665DF9716C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbrellaABTest", "UmbrellaABTest\UmbrellaABTest.csproj", "{5ED0AB2B-E3AA-4E47-80F9-1B8DDDDEF2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7898E9B-85C7-48B3-8524-06665DF9716C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7898E9B-85C7-48B3-8524-06665DF9716C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7898E9B-85C7-48B3-8524-06665DF9716C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7898E9B-85C7-48B3-8524-06665DF9716C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED0AB2B-E3AA-4E47-80F9-1B8DDDDEF2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED0AB2B-E3AA-4E47-80F9-1B8DDDDEF2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED0AB2B-E3AA-4E47-80F9-1B8DDDDEF2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED0AB2B-E3AA-4E47-80F9-1B8DDDDEF2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BAE7F9-12AD-46E0-BF98-37C2243A868F}
+	EndGlobalSection
+EndGlobal
